@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8690
     wikipedia: http://en.wikipedia.org/wiki/Alfred_Lawson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19459#Born-Again
 gutenberg_issued: '2006-10-04'
 gutenberg_type: Text
 identifiers:
