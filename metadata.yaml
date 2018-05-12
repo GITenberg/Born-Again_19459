@@ -1,0 +1,27 @@
+_repo: Born-Again_19459
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lawson, Alfred W. (Alfred William)
+    birthdate: 1869
+    deathdate: 1954
+    gutenberg_agent_id: '8690'
+    url: http://www.gutenberg.org/2009/agents/8690
+    wikipedia: http://en.wikipedia.org/wiki/Alfred_Lawson
+description: ''
+gutenberg_issued: '2006-10-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19459'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PS'
+title: Born Again
+url: http://www.gutenberg.org/ebooks/19459
